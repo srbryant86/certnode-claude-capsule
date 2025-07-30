@@ -1,0 +1,4 @@
+# Minimal CertNode Capsule for Claude (RDE + CMF + CertEngine wrapper)
+
+google-generativeai==0.7.2
+python-dotenv>=1.0
